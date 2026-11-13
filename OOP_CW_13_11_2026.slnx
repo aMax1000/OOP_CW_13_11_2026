@@ -1,0 +1,7 @@
+<Solution>
+  <Configurations>
+    <Platform Name="x64" />
+    <Platform Name="x86" />
+  </Configurations>
+  <Project Path="OOP_CW_13_11_2026/OOP_CW_13_11_2026.vcxproj" />
+</Solution>
